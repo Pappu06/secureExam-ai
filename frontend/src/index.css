@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@import "tailwindcss";
+
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+/* ── Smooth scroll ────────────────────────────────── */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ── Selection styling ────────────────────────────── */
+::selection {
+  background-color: rgba(30, 58, 138, 0.3);
+  color: #1e3a5f;
+}
+
+/* ── Government-style gradient text ──────────────── */
+.text-gradient {
+  background: linear-gradient(135deg, #1e3a5f, #2563eb, #1e40af);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Subtle card shadows ─────────────────────────── */
+.shadow-gov {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08),
+    0 4px 12px rgba(0, 0, 0, 0.04);
+}
+
+.shadow-gov-lg {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.06),
+    0 10px 24px rgba(0, 0, 0, 0.06);
+}
+
+/* ── Custom scrollbar (professional) ─────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #94a3b8;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+/* Firefox scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #94a3b8 #f1f5f9;
+}
+
+/* ── Keyframe animations (subtle & professional) ─── */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideOut {
+  from {
+    opacity: 1;
+    transform: translateX(0);
+  }
+
+  to {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.5s ease-out;
+}
+
+.animate-slide-in {
+  animation: slideIn 0.3s ease-out;
+}
+
+.animate-slide-out {
+  animation: slideOut 0.3s ease-out;
+}
