@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔒 SECUREEXAM-AI
+#  SECUREEXAM-AI
 ## SMART AI-BASED ONLINE EXAMINATION PLATFORM
 
 ### AI-Powered Secure Online Examination System with Smart Proctoring and Analytics
@@ -14,7 +14,7 @@
 
 ---
 
-### 🎓 Final Year B.Tech Computer Science Engineering Project
+###  Final Year B.Tech Computer Science Engineering Project
 
 SecureExam-AI is a modern AI-assisted online examination platform that provides secure exam conduction, intelligent monitoring, automated evaluation, and advanced administrative analytics.
 
@@ -22,7 +22,7 @@ SecureExam-AI is a modern AI-assisted online examination platform that provides 
 
 ---
 
-# 📑 Table of Contents
+#  Table of Contents
 
 - Introduction
 - Features
@@ -39,7 +39,7 @@ SecureExam-AI is a modern AI-assisted online examination platform that provides 
 
 ---
 
-# 📌 Introduction
+#  Introduction
 
 SecureExam-AI is a web-based online examination platform designed to conduct secure online assessments.
 
@@ -55,9 +55,9 @@ The platform provides:
 
 ---
 
-# ✨ Features
+#  Features
 
-## 👨‍🎓 Student Module
+##  Student Module
 
 - Student Registration
 - Secure Login
@@ -74,7 +74,7 @@ The platform provides:
 
 ---
 
-## 👨‍💼 Admin Module
+##  Admin Module
 
 - Admin Dashboard
 - Create Exams
@@ -91,7 +91,7 @@ The platform provides:
 
 ---
 
-## 🤖 AI Proctoring
+##  AI Proctoring
 
 - Face Monitoring
 - Fullscreen Detection
@@ -102,7 +102,7 @@ The platform provides:
 
 ---
 
-# 🏗 System Architecture
+#  System Architecture
 
 ```
 Students/Admin
@@ -125,7 +125,7 @@ Results & Analytics
 
 ---
 
-# 💻 Technology Stack
+#  Technology Stack
 
 | Technology | Usage |
 |-----------|--------|
@@ -144,7 +144,7 @@ Results & Analytics
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 SecureExam-AI/
@@ -176,7 +176,7 @@ SecureExam-AI/
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 ## Clone Repository
 
@@ -218,7 +218,7 @@ npm run dev
 
 ---
 
-# 🔑 Environment Variables
+#  Environment Variables
 
 Create:
 
@@ -236,7 +236,7 @@ JWT_SECRET=YOUR_SECRET_KEY
 
 ---
 
-# 🔗 REST APIs
+#  REST APIs
 
 ## Authentication
 
@@ -302,7 +302,7 @@ GET /api/export/excel/:examId
 
 ---
 
-# 👨‍🎓 Student Workflow
+#  Student Workflow
 
 ```
 Register
@@ -338,7 +338,7 @@ View Results
 
 ---
 
-# 👨‍💼 Admin Workflow
+#  Admin Workflow
 
 ```
 Login
@@ -374,7 +374,7 @@ Export Reports
 
 ---
 
-# 🤖 AI Proctoring Workflow
+#  AI Proctoring Workflow
 
 ```
 Start Exam
@@ -406,7 +406,7 @@ Auto Submit
 
 ---
 
-# 📊 Analytics
+#  Analytics
 
 Admin Dashboard provides:
 
@@ -420,7 +420,7 @@ Admin Dashboard provides:
 
 ---
 
-# 📥 Excel Export
+#  Excel Export
 
 Admin can export:
 
@@ -435,25 +435,25 @@ Generated using ExcelJS.
 
 ---
 
-# 🔒 Security Features
+#  Security Features
 
-✅ JWT Authentication
+ JWT Authentication
 
-✅ Password Encryption
+ Password Encryption
 
-✅ Protected Routes
+ Protected Routes
 
-✅ Role Based Access
+ Role Based Access
 
-✅ Fullscreen Detection
+ Fullscreen Detection
 
-✅ Tab Switching Detection
+ Tab Switching Detection
 
-✅ AI Monitoring
+ AI Monitoring
 
 ---
 
-# 📷 Project Screenshots
+#  Project Screenshots
 
 ## Home Page
 
@@ -485,7 +485,7 @@ Generated using ExcelJS.
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 - Live Video Proctoring
 
@@ -507,7 +507,7 @@ Generated using ExcelJS.
 
 ---
 
-# 📚 Documentation
+#  Documentation
 
 Project documentation includes:
 
@@ -521,7 +521,7 @@ Project documentation includes:
 
 ---
 
-# 👨‍💻 Contributors
+#  Contributors
 
 ## Developer
 
@@ -531,7 +531,7 @@ B.Tech Computer Science Engineering
 
 ---
 
-# 📜 License
+#  License
 
 This project is licensed under the MIT License.
 
@@ -539,7 +539,7 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-## ⭐ If you like this project, don't forget to star the repository!
+##  If you like this project, don't forget to star the repository!
 
 ### SECUREEXAM-AI
 ### SMART AI-BASED ONLINE EXAMINATION PLATFORM
