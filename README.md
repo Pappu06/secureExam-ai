@@ -457,33 +457,38 @@ Generated using ExcelJS.
 
 ## Home Page
 
-![Home](screenshots/home.png)
+<img width="1357" height="611" alt="image" src="https://github.com/user-attachments/assets/8cf5772d-4cd5-44dd-b827-5c8a5260f082" />
+
 
 ---
 
 ## Student Dashboard
 
-![Student](screenshots/student-dashboard.png)
+<img width="1360" height="608" alt="image" src="https://github.com/user-attachments/assets/2cbca4a3-9666-4b9a-a4da-565ddfe492f1" />
+
 
 ---
 
 ## Admin Dashboard
 
-![Admin](screenshots/admin-dashboard.png)
+<img width="1363" height="607" alt="image" src="https://github.com/user-attachments/assets/aac692c2-729a-4c3d-a569-dc5f0c9e6728" />
+
 
 ---
 
 ## Exam Page
 
-![Exam](screenshots/exam-page.png)
+<img width="1366" height="768" alt="2026-06-11 (1)" src="https://github.com/user-attachments/assets/da570d8a-af59-447a-821e-e2f6800aa70e" />
 
 ---
 
 ## Results
 
-![Results](screenshots/results.png)
+<img width="1363" height="607" alt="image" src="https://github.com/user-attachments/assets/4fd7e79c-f043-445e-965a-9bcf1147b47a" />
+
 
 ---
+
 
 #  Future Enhancements
 
